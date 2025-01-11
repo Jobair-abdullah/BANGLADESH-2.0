@@ -55,11 +55,15 @@ width: 270px;
 height: 56px;
   }
   /* vision of  */
-  .vision{
+  .vision {
     margin-left: 15%;
     width: 1280px;
     height: 560px;
     margin-top: 80px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    
+    
   }
   .headtwo{
     color: rgb(14, 14, 14);
@@ -67,8 +71,8 @@ font-family: Fira Sans;
 font-size: 40px;
 font-weight: 700;
 line-height: 48px;
-letter-spacing: 0%;
-text-align: left;
+margin: 24px;
+
   }
   .vbd{
     color: rgba(14, 14, 14, 0.7);
@@ -78,6 +82,7 @@ font-weight: 400;
 line-height: 24px;
 letter-spacing: 0%;
 text-align: left;
+margin: 24px;
   }
   .futurebd{
     display: flex;
@@ -89,6 +94,8 @@ background: rgba(84, 144, 245, 0.2);
 margin-right: 24px;
 width: 410.67px;
 height: 325px;
+margin-left: 24px ;
+
   }
   .di2{
     box-sizing: border-box;
@@ -104,7 +111,7 @@ height: 325px;
 border-radius: 16px;
 background: rgb(247, 235, 207);
 width: 410.67px;
-
+margin-right: 24px;
 height: 325px;
   }
   .vimage{
@@ -171,3 +178,127 @@ margin-left: 45px;
 border: 0px;
 
   }
+  /* recent news */
+  .rhead{
+    color: rgb(14, 14, 14);
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+text-align: left;
+margin: 24px;
+  }
+  .rpara{
+    color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+margin: 24px;
+  }
+  .ronenews{
+    display: flex;
+    flex-direction: column;
+  }
+  .sata{
+    border-radius: 24px;
+    width: 408px;
+
+height: 306px;
+
+  }
+ .satpara1{
+  display: flex;
+  flex-direction: row;
+ }
+ .sec3{
+  background-color: whitesmoke;
+  margin-left: 15%;
+  margin-right: 16.5%;
+  border-radius: 15px;
+  height: 1415px;
+ }
+ .sata1
+ {
+  background-color:white;
+  border-radius: 24px;
+  margin-left: 2%;
+  margin-right: 2%;
+  display: flex;
+  width: 1200px;
+
+height: 402px;
+  
+ }
+ .ims{
+  border-radius: 24px;
+  width: 408px;
+  height: 306px;
+  margin-left: 48px;
+  margin-top: 60px;
+
+  
+ }
+ .last{
+  padding-left: 32px;
+ }
+ .nsata{
+  color: rgba(14, 14, 14, 0.8);
+font-size: 32px;
+font-weight: 700;
+line-height: 38px;
+padding-top: 48px;
+margin: 12px 0px;
+
+
+ }
+ .alzazi{
+  width: 134px;
+  
+height: 40px;
+ }
+ .time{
+  color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+
+
+ }
+ .sap1{
+  color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+margin-right: 48px;
+ }
+ .bt5{
+  border-radius: 8px;
+background: rgb(0, 106, 80);
+width: 139px;
+height: 48px;
+border: 0;
+
+ }
+ .sata2
+ {
+  background-color:white;
+  border-radius: 24px;
+  margin-left: 2%;
+  margin-right: 2%;
+  display: flex;
+  width: 1200px;
+
+height: 402px;
+margin-top: 24px;
+  
+ }
+ .sata3{
+  background-color:white;
+  border-radius: 24px;
+  margin-left: 2%;
+  margin-right: 2%;
+  display: flex;
+  width: 1200px;
+  margin-top: 24px;
+height: 402px;
+ }
