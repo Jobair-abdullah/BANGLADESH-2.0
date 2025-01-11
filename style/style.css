@@ -4,7 +4,7 @@
     font-style: normal;
 
   }
-  .banner{
+  .banner {
     display: flex;
     justify-content: space-between;
     
@@ -53,4 +53,121 @@ background: rgb(0, 106, 80);
 width: 270px;
 
 height: 56px;
+  }
+  /* vision of  */
+  .vision{
+    margin-left: 15%;
+    width: 1280px;
+    height: 560px;
+    margin-top: 80px;
+  }
+  .headtwo{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+  }
+  .vbd{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+  }
+  .futurebd{
+    display: flex;
+  }
+  .di1{
+    box-sizing: border-box;
+border-radius: 16px;
+background: rgba(84, 144, 245, 0.2);
+margin-right: 24px;
+width: 410.67px;
+height: 325px;
+  }
+  .di2{
+    box-sizing: border-box;
+border-radius: 16px;
+background: rgb(198, 228, 214);
+margin-right: 24px;
+width: 410.67px;
+
+height: 325px;
+  }
+  .di3{
+    box-sizing: border-box;
+border-radius: 16px;
+background: rgb(247, 235, 207);
+width: 410.67px;
+
+height: 325px;
+  }
+  .vimage{
+    width: 49.66px;
+    height: 53.09px;
+    padding-left: 45px;
+    padding-top: 33px;
+    
+    
+  }
+  .on{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+padding-left: 45px;
+  }
+  .para{
+    color: rgba(14, 14, 14, 0.7);
+
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+padding-left: 45px;
+padding-right: 24px;
+padding-top: 0px;
+
+  }
+  .btu1{
+    border-radius: 8px;
+background: rgb(84, 144, 245);
+width: 122px;
+height: 41px;
+
+padding: 11px 20px 11px 20px;
+margin-left: 45px;
+border: 0;
+  }
+  .btu2{
+    border-radius: 8px;
+background: rgb(9, 161, 92);
+border: 0;
+width: 122px;
+
+height: 41px;
+padding: 11px 20px 11px 20px;
+margin-left: 45px;
+margin-top: 20px;
+
+
+  }
+  .btu3{
+    border-radius: 8px;
+background: rgb(255, 194, 57);
+width: 122px;
+
+height: 41px;
+margin-left: 45px;
+border: 0px;
+
   }
