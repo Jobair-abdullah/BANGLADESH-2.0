@@ -497,6 +497,9 @@ margin-top: 30px;
 .fdi{
   width: 1600px;
 height: 226px;
+text-align: center;
+
+
 }
 .f1{
   text-align: center;
@@ -505,5 +508,6 @@ height: 226px;
 font-size: 32px;
 font-weight: 700;
 line-height: 38px;
+
 
 }
