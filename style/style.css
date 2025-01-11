@@ -2,6 +2,7 @@
     font-family: "Fira Sans", serif;
     font-weight: 400;
     font-style: normal;
+    margin-right: 700px;
 
   }
   .banner {
@@ -88,7 +89,8 @@ margin: 24px;
   .futurebd{
     display: flex;
   }
-  .di1{
+  .di1 {
+    
     box-sizing: border-box;
 border-radius: 16px;
 background: rgba(84, 144, 245, 0.2);
@@ -98,7 +100,8 @@ height: 325px;
 margin-left: 24px ;
 
   }
-  .di2{
+  .di2 {
+    
     box-sizing: border-box;
 border-radius: 16px;
 background: rgb(198, 228, 214);
@@ -218,6 +221,7 @@ height: 306px;
   margin-right: 16.5%;
   border-radius: 15px;
   height: 1430px;
+  width: 1280px;
  }
  .sata1
  {
@@ -433,3 +437,73 @@ height: 56px;
 margin-left: 564px;
 margin-top: 50px;
  }
+ /* newsletter sub sec */
+ .news{
+  border-radius: 24px;
+background: rgb(198, 228, 214);
+width: 1280px;
+height: 395px;
+margin-left: 15%;
+  margin-right: 16.5%;
+  margin-top: 60px;
+ }
+.n1{
+  color: rgb(14, 14, 14);
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+text-align: center;
+padding-top: 85px;
+}
+.n2{
+  color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+padding-top: 10px;
+text-align: center;
+}
+.n3{
+  width: 600px;
+height: 55px;
+border-radius: 8px 0px 0px 8px;
+background: rgb(255, 255, 255);
+border: none;
+margin-right: -2px;
+margin-left: 5px;
+}
+.n4{
+  border-radius: 0px 8px 8px 0px;
+background: rgb(0, 106, 80);
+width: 150px;
+height: 56px;
+border: none;
+margin-left: -2px;
+display: inline-block;
+
+}
+.mil{
+  margin-top: 40px;
+  text-align: center;
+}
+.n5{
+  color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+text-align: center;
+margin-top: 30px;
+}
+.fdi{
+  width: 1600px;
+height: 226px;
+}
+.f1{
+  text-align: center;
+  margin-top: 80px;
+  color: rgb(14, 14, 14);
+font-size: 32px;
+font-weight: 700;
+line-height: 38px;
+
+}
